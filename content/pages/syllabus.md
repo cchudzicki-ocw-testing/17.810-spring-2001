@@ -13,3 +13,9 @@ Recitations: 1 session / week; 1 hour / session
 ## PREREQUISITES
 
 There are no prerequisites for this course.
+
+## Overview and Goals
+
+This course provides an introduction to game theoretic analysis in political science. We study the concepts  
+andmodels used to analyze political behavior in strategic contexts, including normal and extensive  
+form games, games of incomplete information, repeated games, and bargaining.
