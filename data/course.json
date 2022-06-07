@@ -1,0 +1,42 @@
+{
+  "term": "Spring",
+  "year": "2021",
+  "level": [
+    "Undergraduate",
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Social Science",
+      "Game Theory"
+    ],
+    [
+      "Social Science",
+      "Political Science"
+    ]
+  ],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [
+      "726ed424-0621-a5ff-b793-c8b16466b44c"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "",
+    "website": "game-theory-and-political-theory"
+  },
+  "course_title": "Game Theory and Political Theory",
+  "course_description": "This course introduces students to the rudiments of game theory within political science. It provides students with the ability to solve simple games. Readings draw from basic texts on game theoretic modeling and applied articles in American politics, international relations, and comparative politics. Students taking the graduate version evaluate applied theory articles in the major journals.",
+  "department_numbers": [
+    "17"
+  ],
+  "extra_course_numbers": "17.811",
+  "primary_course_number": "17.810",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "game-theory-and-political-theory"
+  },
+  "learning_resource_types": [],
+  "site_uid": "39da42c1-c200-4d1c-bd04-8c3bbb0d496b"
+}
