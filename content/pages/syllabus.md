@@ -12,21 +12,21 @@ Recitations: 1 session / week; 1 hour / session
 
 ## Overview and Goals
 
-This course provides an introduction to game theoretic analysis in political science. We study the concepts          
-andmodels used to analyze political behavior in strategic contexts, including normal and extensive          
+This course provides an introduction to game theoretic analysis in political science. We study the concepts           
+andmodels used to analyze political behavior in strategic contexts, including normal and extensive           
 form games, games of incomplete information, repeated games, and bargaining.
 
-*Note to undergraduates*: In order to get the [HASS](https://registrar.mit.edu/registration-academics/academic-requirements/hass-requirement) credit, please make sure to enroll in 17.811 (17.810 is         
-the course number for graduate students). The topics covered in this class represent only a very small         
-subset of political science research. If you enjoy this class, please consider a HASS concentration in         
+*Note to undergraduates*: In order to get the [HASS](https://registrar.mit.edu/registration-academics/academic-requirements/hass-requirement) credit, please make sure to enroll in 17.811 (17.810 is          
+the course number for graduate students). The topics covered in this class represent only a very small          
+subset of political science research. If you enjoy this class, please consider a HASS concentration in          
 [Political Science](https://polisci.mit.edu/).
 
 ## PREREQUISITES
 
-*Willingness to work hard on unfamiliar materials*. Understanding of the multivariate calculus equivalent        
-to the contents covered in the department’s second math camp course. (If you did not complete the        
-math camp, contact the instructor to see if you have enough background.) The course will occasionally        
-rely on some methods of mathematical proof (e.g., proof by contradiction, proof by induction, etc.), but        
+*Willingness to work hard on unfamiliar materials*. Understanding of the multivariate calculus equivalent         
+to the contents covered in the department’s second math camp course. (If you did not complete the         
+math camp, contact the instructor to see if you have enough background.) The course will occasionally         
+rely on some methods of mathematical proof (e.g., proof by contradiction, proof by induction, etc.), but         
 prior exposure to them is not assumed.
 
 ## Course Requirements
@@ -50,3 +50,16 @@ Final problem set
 40%
 
 For details on the problem sets, see the {{% resource_link "1cbb2272-94ba-4392-9a93-23aff55fc065" "Assignments" %}} section.
+
+## Notes on Academic Integrity
+
+Please respect and follow the rules written at [Academic Integrity: A Handbook for Students](http://integrity.mit.edu/). 
+
+In particular, the following is a (partial) list of the acts we will consider academically dishonest:
+
+- Obtaining or consulting course materials from previous years
+- Sharing course materials with people outside of the class, such as problem sets and solutions
+- Copying and pasting someone else’s answers to problem sets electronically, even if you collaborated  
+    with the person in a legitimate way (as specified above)
+
+## Recitation Sessions
