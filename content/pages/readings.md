@@ -33,7 +33,7 @@ READINGS
 {{< tdclose >}}{{< tdopen >}}
 Rational Choice, Preferences, Utility Representations, Social Choice
 {{< tdclose >}}{{< tdopen >}}
- 
+Cameron, Charles M. "Rational Choice and the Presidency." Chapter 3 in *Veto Bargaining: Presidents and the Politics of Negative Power.* Cambridge University Press, 2000. ISBN: 9780521625500. \[Preview with [Google Books](https://www.google.com/books/edition/Veto_Bargaining/ZlCrBdHD4owC?hl=en&gbpv=1)\]                        *Ignore the specific application to presidential vetoes; the method described (and defended) here is what this course prepares you to practice.*
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **II. Games in Strategic Form and Nash Equilibrium**
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
