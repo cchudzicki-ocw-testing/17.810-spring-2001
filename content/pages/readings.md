@@ -34,7 +34,7 @@ READINGS
 Rational Choice, Preferences, Utility Representations, Social Choice
 {{< tdclose >}}{{< tdopen >}}
 
-*Required Readings*
+*Required Reading*
 
 Cameron, Charles M. "Rational Choice and the Presidency." Chapter 3 in *Veto Bargaining: Presidents and the Politics of Negative Power.* Cambridge University Press, 2000. ISBN: 9780521625500. \[Preview with [Google Books](https://www.google.com/books/edition/Veto_Bargaining/ZlCrBdHD4owC?hl=en&gbpv=1)\]
 
@@ -44,7 +44,7 @@ Cameron, Charles M. "Rational Choice and the Presidency." Chapter 3 in *Veto Bar
 
 \[MC\] Chapter 2: The Theory of Choice. 
 
-*Optional Readings*
+*Optional Reading*
 
 \[MC\] Chapter 4: Social Choice Theory. \[Preview with [Google Books](https://www.google.com/books/edition/Political_Game_Theory/cNJlCdf-zKcC?hl=en&gbpv=1)\]
 
@@ -56,7 +56,7 @@ Cameron, Charles M. "Rational Choice and the Presidency." Chapter 3 in *Veto Bar
 Pure Strategy Nash Equilibrium
 {{< tdclose >}}{{< tdopen >}}
 
-*Required Readings*
+*Required Reading*
 
 \[G\] Chapter 1.1: Basic Theory: Normal-Form Games and Nash Equilibrium. \[Preview with [Google Books](https://www.google.com/books/edition/Game_Theory_for_Applied_Economists/8ygxf2WunAIC?hl=en&gbpv=1)\]
 
@@ -76,7 +76,7 @@ Pure Strategy Nash Equilibrium
 Mixed Strategy Nash Equilibrium
 {{< tdclose >}}{{< tdopen >}}
 
-*Required Readings*
+*Required Reading*
 
 \[G\] Chapter 1.3.A: Mixed Strategies. \[Preview with [Google Books](https://www.google.com/books/edition/Game_Theory_for_Applied_Economists/8ygxf2WunAIC?hl=en&gbpv=1)\]
 
@@ -114,7 +114,7 @@ Dynamic Games of Complete and Imperfect Information
 
 \[G\] Chapter 2.4: Dynamic Games of Complete but Imperfect Information
 
-*Optional Readings*
+*Optional Reading*
 
 Grossman, Gene M, and Elhanan Helpman. "[Protection for Sale](https://www.jstor.org/stable/2118033?seq=1)."  *American Economic Review* 84, no. 4 (1994): 833–50.
 
@@ -125,13 +125,27 @@ Grossman, Gene M, and Elhanan Helpman. "[Protection for Sale](https://www.jstor.
 {{< tdclose >}}{{< tdopen >}}
 Finitely Repeated Games
 {{< tdclose >}}{{< tdopen >}}
-Problem set 4 due
+
+*Required Reading*
+
+\[G\] Chapter 2.3.A: Two-Stage Repeated Games. 
+
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 7
 {{< tdclose >}}{{< tdopen >}}
 Infinitely Repeated Games
 {{< tdclose >}}{{< tdopen >}}
-Problem set 5 due
+
+*Required Reading*
+
+\[G\] Chapter 2.3.B: Infinitely Repeated Games. 
+
+*Optional Readings*
+
+Grossman, Gene M., and Elhanan Helpman. ["Trade Wars and Trade Talks." (PDF)](https://dash.harvard.edu/bitstream/handle/1/3450062/Helpman_TradeWars.pdf) *Journal of Political Economy* 103, no. 4 (1995): 675–708.
+
+Baron, David P.,  and John A. Ferejohn. "[Bargaining in Legislatures](https://www.jstor.org/stable/1961664?seq=1)." *American Political Science Review* 83 (1989): 1181–1206.
+
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **V. Static Games of Incomplete Information**
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
