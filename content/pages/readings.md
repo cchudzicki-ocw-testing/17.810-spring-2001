@@ -82,7 +82,9 @@ Mixed Strategy Nash Equilibrium
 
 *Optional Readings*
 
-\[MC\] Chapter 3.1: The Finite Case. \[Preview with [Google Books](https://www.google.com/books/edition/Political_Game_Theory/cNJlCdf-zKcC?hl=en&gbpv=1)\]
+\[MC\] Chapter 3.1: The Finite Case. 
+
+\[F\] = Chapter 1: Games in Strategic Form and Nash Equilibrium. \[Preview with [Google Books](https://www.google.com/books/edition/Game_Theory/3KnuDwAAQBAJ?hl=en&gbpv=1)\] 
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **III. Extensive Form Games**
