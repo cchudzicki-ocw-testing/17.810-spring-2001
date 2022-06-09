@@ -114,6 +114,10 @@ Dynamic Games of Complete and Imperfect Information
 
 \[G\] Chapter 2.4: Dynamic Games of Complete but Imperfect Information
 
+*Optional Readings*
+
+Grossman, Gene M, and Elhanan Helpman. "[Protection for Sale](https://www.jstor.org/stable/2118033?seq=1)."  *American Economic Review* 84, no. 4 (1994): 833–50.
+
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **IV. Repeated Games**
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
