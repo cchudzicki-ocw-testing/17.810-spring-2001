@@ -144,7 +144,7 @@ Infinitely Repeated Games
 
 Grossman, Gene M., and Elhanan Helpman. ["Trade Wars and Trade Talks." (PDF)](https://dash.harvard.edu/bitstream/handle/1/3450062/Helpman_TradeWars.pdf) *Journal of Political Economy* 103, no. 4 (1995): 675–708.
 
-Baron, David P.,  and John A. Ferejohn. "[Bargaining in Legislatures](https://www.jstor.org/stable/1961664?seq=1)." *American Political Science Review* 83 (1989): 1181–1206.
+Baron, David P., and John A. Ferejohn. "[Bargaining in Legislatures](https://www.jstor.org/stable/1961664?seq=1)." *American Political Science Review* 83 (1989): 1181–1206.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **V. Static Games of Incomplete Information**
@@ -160,9 +160,7 @@ Baron, David P.,  and John A. Ferejohn. "[Bargaining in Legislatures](https://w
 
 *Optional Reading*
 
-Fearon, James D. "[Rationalist Explanations for War](https://www.jstor.org/stable/2706903?seq=1)." *International Organization* 49, no. 3 
-
-(1995): 379–414.
+Fearon, James D. "[Rationalist Explanations for War](https://www.jstor.org/stable/2706903?seq=1)." *International Organization* 49, no. 3 (1995): 379–414.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **VI. Dynamic Games of Incomplete Information**
