@@ -96,16 +96,24 @@ Dynamic Games of Complete and Perfect Information
 
 *Required Readings*
 
-\[G\] Chapter 2.1.A: Theory: Backwards Induction. \[Preview with [Google Books](https://www.google.com/books/edition/Game_Theory_for_Applied_Economists/8ygxf2WunAIC?hl=en&gbpv=1)\]
+\[G\] Chapter 2.1.A: Theory: Backwards Induction. 
 
-\[G\] Chapter 2.1.B: Stackelberg Model of Duopoly. \[Preview with [Google Books](https://www.google.com/books/edition/Game_Theory_for_Applied_Economists/8ygxf2WunAIC?hl=en&gbpv=1)\]
+\[G\] Chapter 2.1.B: Stackelberg Model of Duopoly. 
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
 {{< tdclose >}}{{< tdopen >}}
 Dynamic Games of Complete and Imperfect Information
 {{< tdclose >}}{{< tdopen >}}
-Problem set 3 due
+
+*Required Readings*
+
+\[G\] Chapter 2.2.A: Theory: Subgame Perfection. 
+
+\[G\] Chapter 2.2.B: Bank Runs. 
+
+\[G\] Chapter 2.4: Dynamic Games of Complete but Imperfect Information
+
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **IV. Repeated Games**
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
