@@ -78,7 +78,7 @@ Mixed Strategy Nash Equilibrium
 
 *Required Readings*
 
-\[G\] Chapter 1.3.A Mixed Strategies. \[Preview with [Google Books](https://www.google.com/books/edition/Game_Theory_for_Applied_Economists/8ygxf2WunAIC?hl=en&gbpv=1)\]
+\[G\] Chapter 1.3.A: Mixed Strategies. \[Preview with [Google Books](https://www.google.com/books/edition/Game_Theory_for_Applied_Economists/8ygxf2WunAIC?hl=en&gbpv=1)\]
 
 *Optional Readings*
 
@@ -93,7 +93,13 @@ Mixed Strategy Nash Equilibrium
 {{< tdclose >}}{{< tdopen >}}
 Dynamic Games of Complete and Perfect Information
 {{< tdclose >}}{{< tdopen >}}
-Problem set 2 due
+
+*Required Readings*
+
+\[G\] Chapter 2.1.A: Theory: Backwards Induction. \[Preview with [Google Books](https://www.google.com/books/edition/Game_Theory_for_Applied_Economists/8ygxf2WunAIC?hl=en&gbpv=1)\]
+
+\[G\] Chapter 2.1.B: Stackelberg Model of Duopoly. \[Preview with [Google Books](https://www.google.com/books/edition/Game_Theory_for_Applied_Economists/8ygxf2WunAIC?hl=en&gbpv=1)\]
+
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
 {{< tdclose >}}{{< tdopen >}}
