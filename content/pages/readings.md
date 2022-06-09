@@ -80,6 +80,10 @@ Mixed Strategy Nash Equilibrium
 
 \[G\] Chapter 1.3.A Mixed Strategies. \[Preview with [Google Books](https://www.google.com/books/edition/Game_Theory_for_Applied_Economists/8ygxf2WunAIC?hl=en&gbpv=1)\]
 
+*Optional Readings*
+
+\[MC\] Chapter 3.1: The Finite Case. \[Preview with [Google Books](https://www.google.com/books/edition/Political_Game_Theory/cNJlCdf-zKcC?hl=en&gbpv=1)\]
+
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **III. Extensive Form Games**
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
