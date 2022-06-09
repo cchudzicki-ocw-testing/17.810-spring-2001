@@ -64,6 +64,12 @@ Pure Strategy Nash Equilibrium
 
 \[G\] Chapter 1.2: Applications. \[Preview with [Google Books](https://www.google.com/books/edition/Game_Theory_for_Applied_Economists/8ygxf2WunAIC?hl=en&gbpv=1)\]
 
+\[MC\] Chapter 5.1: The Normal Form 
+
+\[MC\] Chapter 5.2: Solutions to Normal Form Games 
+
+\[MC\] Chapter 5.6: Application: Interest Group Contributions 
+
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3
 {{< tdclose >}}{{< tdopen >}}
