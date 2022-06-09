@@ -153,7 +153,17 @@ Baron, David P.,  and John A. Ferejohn. "[Bargaining in Legislatures](https://w
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< tdopen >}}
-Problem set 6 due
+
+*Required Reading*
+
+\[G\] Chapter 3: Static Games of Incomplete Information.
+
+*Optional Reading*
+
+Fearon, James D. "[Rationalist Explanations for War](https://www.jstor.org/stable/2706903?seq=1)." *International Organization* 49, no. 3 
+
+(1995): 379–414.
+
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **VI. Dynamic Games of Incomplete Information**
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
