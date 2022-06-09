@@ -60,6 +60,10 @@ Pure Strategy Nash Equilibrium
 
 \[G\] Chapter 1.1: Basic Theory: Normal-Form Games and Nash Equilibrium. \[Preview with [Google Books](https://www.google.com/books/edition/Game_Theory_for_Applied_Economists/8ygxf2WunAIC?hl=en&gbpv=1)\]
 
+*Optional Readings*
+
+\[G\] Chapter 1.2: Applications. \[Preview with [Google Books](https://www.google.com/books/edition/Game_Theory_for_Applied_Economists/8ygxf2WunAIC?hl=en&gbpv=1)\]
+
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3
 {{< tdclose >}}{{< tdopen >}}
