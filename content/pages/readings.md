@@ -211,4 +211,8 @@ Besley, Timothy,  and Stephen Coate. "[An Economic Model of Representative Demo
 
 \[P\] Chapter 2: Preferences and Institutions. \[Preview with [Google Books](https://www.google.com/books/edition/Political_Economics/XC4MEAAAQBAJ?hl=en&gbpv=1)\]
 
+*Partisan Politicians*
+
+\[P\] Chapter 5: Partisan Politicians. \[Preview with [Google Books](https://www.google.com/books/edition/Political_Economics/XC4MEAAAQBAJ?hl=en&gbpv=1)\]
+
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
