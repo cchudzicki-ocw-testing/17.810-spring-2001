@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This page contains the course readings.
 draft: false
 title: Readings
 uid: f331282f-80ec-48ba-9dc0-a8cb941846ba
@@ -169,7 +170,19 @@ Fearon, James D. "[Rationalist Explanations for War](https://www.jstor.org/stabl
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< tdopen >}}
-Problem set 7 due
+
+*Required Readings*
+
+\[G\] Chapter 4.1: Introduction to Perfect Bayesian Equilibrium.
+
+\[G\] Chapter 4.2: Signaling Games
+
+\[G\] Chapter 4.3A: Cheap-Talk Games.
+
+*Optional Reading*
+
+Potters, Jan, and Frans van Winden. “[Lobbying and Asymmetric Information](https://www.jstor.org/stable/30025608?seq=1).” *Public Choice* 74, no. 3 (1992): 269–92.
+
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 10
 {{< tdclose >}}{{< tdopen >}}
