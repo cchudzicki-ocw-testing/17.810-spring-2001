@@ -29,7 +29,7 @@ READINGS
 Rational Choice, Preferences, Utility Representations, Social Choice
 {{< tdclose >}}{{< tdopen >}}
 
-*Required Reading*
+*Required Readings:*
 
 Cameron, Charles M. "Rational Choice and the Presidency." Chapter 3 in *Veto Bargaining: Presidents and the Politics of Negative Power.* Cambridge University Press, 2000. ISBN: 9780521625500. \[Preview with [Google Books](https://www.google.com/books/edition/Veto_Bargaining/ZlCrBdHD4owC?hl=en&gbpv=1)\]
 
@@ -39,7 +39,7 @@ Cameron, Charles M. "Rational Choice and the Presidency." Chapter 3 in *Veto Bar
 
 \[MC\] Chapter 2: The Theory of Choice. 
 
-*Optional Reading*
+*Optional Reading:*
 
 \[MC\] Chapter 4: Social Choice Theory. \[Preview with [Google Books](https://www.google.com/books/edition/Political_Game_Theory/cNJlCdf-zKcC?hl=en&gbpv=1)\]
 
@@ -51,11 +51,11 @@ Cameron, Charles M. "Rational Choice and the Presidency." Chapter 3 in *Veto Bar
 Pure Strategy Nash Equilibrium
 {{< tdclose >}}{{< tdopen >}}
 
-*Required Reading*
+*Required Reading:*
 
 \[G\] Chapter 1.1: Basic Theory: Normal-Form Games and Nash Equilibrium. \[Preview with [Google Books](https://www.google.com/books/edition/Game_Theory_for_Applied_Economists/8ygxf2WunAIC?hl=en&gbpv=1)\]
 
-*Optional Readings*
+*Optional Readings:*
 
 \[G\] Chapter 1.2: Applications. \[Preview with [Google Books](https://www.google.com/books/edition/Game_Theory_for_Applied_Economists/8ygxf2WunAIC?hl=en&gbpv=1)\]
 
@@ -71,11 +71,11 @@ Pure Strategy Nash Equilibrium
 Mixed Strategy Nash Equilibrium
 {{< tdclose >}}{{< tdopen >}}
 
-*Required Reading*
+*Required Reading:*
 
 \[G\] Chapter 1.3.A: Mixed Strategies. \[Preview with [Google Books](https://www.google.com/books/edition/Game_Theory_for_Applied_Economists/8ygxf2WunAIC?hl=en&gbpv=1)\]
 
-*Optional Readings*
+*Optional Readings:*
 
 \[MC\] Chapter 3.1: The Finite Case. 
 
@@ -89,7 +89,7 @@ Mixed Strategy Nash Equilibrium
 Dynamic Games of Complete and Perfect Information
 {{< tdclose >}}{{< tdopen >}}
 
-*Required Readings*
+*Required Readings:*
 
 \[G\] Chapter 2.1.A: Theory: Backwards Induction. 
 
@@ -101,7 +101,7 @@ Dynamic Games of Complete and Perfect Information
 Dynamic Games of Complete and Imperfect Information
 {{< tdclose >}}{{< tdopen >}}
 
-*Required Readings*
+*Required Readings:*
 
 \[G\] Chapter 2.2.A: Theory: Subgame Perfection. 
 
@@ -109,7 +109,7 @@ Dynamic Games of Complete and Imperfect Information
 
 \[G\] Chapter 2.4: Dynamic Games of Complete but Imperfect Information
 
-*Optional Reading*
+*Optional Reading:*
 
 Grossman, Gene M, and Elhanan Helpman. "[Protection for Sale](https://www.jstor.org/stable/2118033?seq=1)."  *American Economic Review* 84, no. 4 (1994): 833–50.
 
@@ -121,7 +121,7 @@ Grossman, Gene M, and Elhanan Helpman. "[Protection for Sale](https://www.jstor.
 Finitely Repeated Games
 {{< tdclose >}}{{< tdopen >}}
 
-*Required Reading*
+*Required Reading:*
 
 \[G\] Chapter 2.3.A: Two-Stage Repeated Games. 
 
@@ -131,11 +131,11 @@ Finitely Repeated Games
 Infinitely Repeated Games
 {{< tdclose >}}{{< tdopen >}}
 
-*Required Reading*
+*Required Reading:*
 
 \[G\] Chapter 2.3.B: Infinitely Repeated Games. 
 
-*Optional Readings*
+*Optional Readings:*
 
 Grossman, Gene M., and Elhanan Helpman. ["Trade Wars and Trade Talks." (PDF)](https://dash.harvard.edu/bitstream/handle/1/3450062/Helpman_TradeWars.pdf) *Journal of Political Economy* 103, no. 4 (1995): 675–708.
 
@@ -149,11 +149,11 @@ Baron, David P., and John A. Ferejohn. "[Bargaining in Legislatures](https://www
  
 {{< tdclose >}}{{< tdopen >}}
 
-*Required Reading*
+*Required Reading:*
 
 \[G\] Chapter 3: Static Games of Incomplete Information.
 
-*Optional Reading*
+*Optional Reading:*
 
 Fearon, James D. "[Rationalist Explanations for War](https://www.jstor.org/stable/2706903?seq=1)." *International Organization* 49, no. 3 (1995): 379–414.
 
@@ -165,7 +165,7 @@ Fearon, James D. "[Rationalist Explanations for War](https://www.jstor.org/stabl
  
 {{< tdclose >}}{{< tdopen >}}
 
-*Required Readings*
+*Required Readings:*
 
 \[G\] Chapter 4.1: Introduction to Perfect Bayesian Equilibrium.
 
@@ -173,7 +173,7 @@ Fearon, James D. "[Rationalist Explanations for War](https://www.jstor.org/stabl
 
 \[G\] Chapter 4.3A: Cheap-Talk Games.
 
-*Optional Reading*
+*Optional Reading:*
 
 Potters, Jan, and Frans van Winden. "[Lobbying and Asymmetric Information](https://www.jstor.org/stable/30025608?seq=1)." *Public Choice* 74, no. 3 (1992): 269–92.
 
@@ -193,23 +193,23 @@ No readings assigned.
 
 Time permitting, some additional selected topics may also be covered:
 
-*Probabilistic Voting Model*
+*Probabilistic Voting Model:*
 
 Lindbeck, Assar, and Jörgen W. Weibull. "[Balanced-budget Redistribution as the Outcome of Political Competition](https://www.jstor.org/stable/30024725?seq=1)." *Public Choice* 52, no. 3 (1987): 273–97.
 
-*Citizen Candidate Model (strategic voting)*
+*Citizen Candidate Model (strategic voting):*
 
 Besley, Timothy,  and Stephen Coate. "[An Economic Model of Representative Democracy](https://www.jstor.org/stable/2951277?seq=1)." *Quarterly Journal of Economics* 112, no. 1 (1997): 85–114. 
 
-*Electoral Competition*
+*Electoral Competition:*
 
 \[P\] Chapter 2: Preferences and Institutions. \[Preview with [Google Books](https://www.google.com/books/edition/Political_Economics/XC4MEAAAQBAJ?hl=en&gbpv=1)\]
 
-*Partisan Politicians*
+*Partisan Politicians:*
 
 \[P\] Chapter 5: Partisan Politicians. \[Preview with [Google Books](https://www.google.com/books/edition/Political_Economics/XC4MEAAAQBAJ?hl=en&gbpv=1)\]
 
-*Special Interest Politics*
+*Special Interest Politics:*
 
 \[P\] Chapter 7: Special-Interest Politics.
 
