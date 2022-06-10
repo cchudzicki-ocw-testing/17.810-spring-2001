@@ -217,6 +217,6 @@ Besley, Timothy,  and Stephen Coate. "[An Economic Model of Representative Demo
 
 *Special Interest Politics*
 
-\[P\] Chapter 7: Special-Interest Politics. \[Preview with [Google Books](https://www.google.com/books/edition/Political_Economics/XC4MEAAAQBAJ?hl=en&gbpv=1)\]
+\[P\] Chapter 7: Special-Interest Politics.
 
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
