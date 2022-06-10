@@ -201,6 +201,10 @@ Time permitting, some additional selected topics may also be covered:
 
 *Probabilistic Voting Model*
 
-Lindbeck, Assar, and Jörgen W. Weibull . "[Balanced-budget Redistribution as the Outcome of Political Competition](https://www.jstor.org/stable/30024725?seq=1)." *Public Choice* 52, no. 3 (1987): 273–97.
+Lindbeck, Assar, and Jörgen W. Weibull. "[Balanced-budget Redistribution as the Outcome of Political Competition](https://www.jstor.org/stable/30024725?seq=1)." *Public Choice* 52, no. 3 (1987): 273–97.
+
+*Citizen Candidate Model (strategic voting)*
+
+Besley, Timothy,  and Stephen Coate. "[An Economic Model of Representative Democracy](https://www.jstor.org/stable/2951277?seq=1)." *Quarterly Journal of Economics* 112, no. 1 (1997): 85–114. 
 
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
