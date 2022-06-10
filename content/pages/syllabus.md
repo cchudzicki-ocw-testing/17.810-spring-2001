@@ -14,21 +14,21 @@ Recitations: 1 session / week; 1 hour / session
 
 ## Overview and Goals
 
-This course provides an introduction to game theoretic analysis in political science. We study the concepts                      
-andmodels used to analyze political behavior in strategic contexts, including normal and extensive                      
+This course provides an introduction to game theoretic analysis in political science. We study the concepts                       
+andmodels used to analyze political behavior in strategic contexts, including normal and extensive                       
 form games, games of incomplete information, repeated games, and bargaining.
 
-*Note to undergraduates*: In order to get the [HASS](https://registrar.mit.edu/registration-academics/academic-requirements/hass-requirement) credit, please make sure to enroll in 17.811 (17.810 is                     
-the course number for graduate students). The topics covered in this class represent only a very small                     
-subset of political science research. If you enjoy this class, please consider a HASS concentration in                     
+*Note to undergraduates*: In order to get the [HASS](https://registrar.mit.edu/registration-academics/academic-requirements/hass-requirement) credit, please make sure to enroll in 17.811 (17.810 is                      
+the course number for graduate students). The topics covered in this class represent only a very small                      
+subset of political science research. If you enjoy this class, please consider a HASS concentration in                      
 [Political Science](https://polisci.mit.edu/).
 
 ## PREREQUISITES
 
-*Willingness to work hard on unfamiliar materials*. Understanding of the multivariate calculus equivalent                    
-to the contents covered in the department’s second math camp course. (If you did not complete the                    
-math camp, contact the instructor to see if you have enough background.) The course will occasionally                    
-rely on some methods of mathematical proof (e.g., proof by contradiction, proof by induction, etc.), but                    
+*Willingness to work hard on unfamiliar materials*. Understanding of the multivariate calculus equivalent                     
+to the contents covered in the department’s second math camp course. (If you did not complete the                     
+math camp, contact the instructor to see if you have enough background.) The course will occasionally                     
+rely on some methods of mathematical proof (e.g., proof by contradiction, proof by induction, etc.), but                     
 prior exposure to them is not assumed.
 
 ## Course Requirements
@@ -65,7 +65,7 @@ In particular, the following is a (partial) list of the acts we will consider ac
 
 - Obtaining or consulting course materials from previous years
 - Sharing course materials with people outside of the class, such as problem sets and solutions
-- Copying and pasting someone else’s answers to problem sets electronically, even if you collaborated             
+- Copying and pasting someone else’s answers to problem sets electronically, even if you collaborated              
     with the person in a legitimate way (as specified above)
 
 ## Recitation Sessions
@@ -76,22 +76,22 @@ We will hold weekly recitation sessions. These sessions will provide a review of
 
 **Required Book**
 
-There will be required readings for each section of the course. Students are expected to complete them            
-before the relevant materials are covered in the lectures. The following textbook is required and will be            
+There will be required readings for each section of the course. Students are expected to complete them             
+before the relevant materials are covered in the lectures. The following textbook is required and will be             
 used throughout the course.
 
 - Gibbons, Robert S. *Game Theory for Applied Economists*. Princeton University Press, 1992. ISBN: ‎9780691003955. \[Preview with [Google Books](https://www.google.com/books/edition/Game_Theory_for_Applied_Economists/8ygxf2WunAIC?hl=en&gbpv=1)\]
 
 **Optional Books**
 
-The following books are optional but may prove useful to students looking for additional coverage of           
+The following books are optional but may prove useful to students looking for additional coverage of            
 some of the course topics. 
 
 *Other good textbooks:*
 
-- Osborne, Martin J. *An Introduction to Game Theory*. Oxford University Press, 2003. ISBN: ‎978.0195128956
+- Osborne, Martin J. *An Introduction to Game Theory*. Oxford University Press, 2003. ISBN: ‎9780195128956.
 - Fudenberg, Drew, and Jean Tirole. [*Game Theory*](https://mitpress.mit.edu/books/game-theory).  MIT Press, 1991. ISBN: ‎9780262061414. \[Preview with [Google Books](https://www.google.com/books/edition/Game_Theory/3KnuDwAAQBAJ?hl=en&gbpv=1)\] \*
-- Mas-Colell, Andreu, MIchael D. Whinston, and Jerry R. Green. *Microeconomic Theory*. Oxford University Press, 1995. ISBN: ‎9780195073409. \*
+- Mas-Colell, Andreu, Michael D. Whinston, and Jerry R. Green. *Microeconomic Theory*. Oxford University Press, 1995. ISBN: ‎9780195073409. \*
 
 \* These are recommended if you want more rigorous treatments of the materials covered in the course.
 
