@@ -85,7 +85,7 @@ Mixed Strategy Nash Equilibrium
 
 \[MC\] Chapter 3.1: The Finite Case. 
 
-\[F\] = Chapter 1: Games in Strategic Form and Nash Equilibrium. \[Preview with [Google Books](https://www.google.com/books/edition/Game_Theory/3KnuDwAAQBAJ?hl=en&gbpv=1)\] 
+\[F\] Chapter 1: Games in Strategic Form and Nash Equilibrium. \[Preview with [Google Books](https://www.google.com/books/edition/Game_Theory/3KnuDwAAQBAJ?hl=en&gbpv=1)\] 
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **III. Extensive Form Games**
@@ -206,5 +206,9 @@ Lindbeck, Assar, and Jörgen W. Weibull. "[Balanced-budget Redistribution as the
 *Citizen Candidate Model (strategic voting)*
 
 Besley, Timothy,  and Stephen Coate. "[An Economic Model of Representative Democracy](https://www.jstor.org/stable/2951277?seq=1)." *Quarterly Journal of Economics* 112, no. 1 (1997): 85–114. 
+
+*Electoral Competition*
+
+\[P\] Chapter 2: Preferences and Institutions. \[Preview with [Google Books](https://www.google.com/books/edition/Political_Economics/XC4MEAAAQBAJ?hl=en&gbpv=1)\]
 
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
