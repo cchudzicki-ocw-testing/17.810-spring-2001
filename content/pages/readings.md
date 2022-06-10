@@ -181,18 +181,14 @@ Fearon, James D. "[Rationalist Explanations for War](https://www.jstor.org/stabl
 
 *Optional Reading*
 
-Potters, Jan, and Frans van Winden. “[Lobbying and Asymmetric Information](https://www.jstor.org/stable/30025608?seq=1).” *Public Choice* 74, no. 3 (1992): 269–92.
+Potters, Jan, and Frans van Winden. "[Lobbying and Asymmetric Information](https://www.jstor.org/stable/30025608?seq=1)." *Public Choice* 74, no. 3 (1992): 269–92.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 10
 {{< tdclose >}}{{< tdopen >}}
 Reserved for catch-up
 {{< tdclose >}}{{< tdopen >}}
-
-Problem set 8 due
-
-Final problem set distributed
-
+No readings assigned.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **VII. Applications in Political Science**
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -200,5 +196,11 @@ Final problem set distributed
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< tdopen >}}
-Final problem set due
+
+Time permitting, some additional selected topics may also be covered:
+
+*Probabilistic Voting Model*
+
+Lindbeck, Assar, and Jörgen W. Weibull . "[Balanced-budget Redistribution as the Outcome of Political Competition](https://www.jstor.org/stable/30024725?seq=1)." *Public Choice* 52, no. 3 (1987): 273–97.
+
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
