@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains the course topics and key due dates.
 draft: false
 title: Calendar
 uid: 32fe390f-a792-4e31-8512-7e6ffbaacc9c
