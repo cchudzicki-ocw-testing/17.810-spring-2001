@@ -6,11 +6,11 @@ title: Calendar
 uid: 32fe390f-a792-4e31-8512-7e6ffbaacc9c
 ---
 {{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
-**LEC #**
+LEC #
 {{< thclose >}}{{< thopen >}}
-**TOPICS**
+TOPICS
 {{< thclose >}}{{< thopen >}}
-**KEY DUE DATES**
+KEY DUE DATES
 {{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 1
 {{< tdclose >}}{{< tdopen >}}
