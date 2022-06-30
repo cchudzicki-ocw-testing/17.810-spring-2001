@@ -72,7 +72,7 @@ Social Choice
 {{< tdclose >}}{{< tdopen >}}
 Final problem set distributed
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-11
+9
 {{< tdclose >}}{{< tdopen >}}
 
 Additional Topics
