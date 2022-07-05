@@ -173,13 +173,13 @@ No readings assigned.
 
 Additional Topics
 
-•         *Bounded Rationality*
+*Bounded Rationality*
 
-•         *Algorithmic Game Theory*
+*Algorithmic Game Theory*
 
-•         *Evolutionary Game Theory*
+*Evolutionary Game Theory*
 
-•         *Agent-Based Modeling*
+*Agent-Based Modeling*
 
 {{< tdclose >}}{{< tdopen >}}
 No readings assigned.
