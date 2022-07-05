@@ -37,6 +37,9 @@
     "content": "",
     "website": "game-theory-and-political-theory"
   },
-  "learning_resource_types": [],
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Problem Sets"
+  ],
   "site_uid": "39da42c1-c200-4d1c-bd04-8c3bbb0d496b"
 }
