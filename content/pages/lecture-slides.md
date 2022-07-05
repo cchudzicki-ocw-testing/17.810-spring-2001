@@ -45,9 +45,7 @@ Social Choice (PDF)
 9
 {{< tdclose >}}{{< tdopen >}}
 
-Additional Topics
-
-(PDF)
+Additional Topics (PDF)
 
 *Bounded Rationality*
 
