@@ -5,47 +5,47 @@ draft: false
 title: Lecture Slides
 uid: 98dd502a-0a60-47d8-bbe9-0fbf3a0800ea
 ---
-{{< tableopen >}}{{< tbodyopen >}}{{< tropen >}}{{< thopen >}}
+{{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 LEC #
-{{< thclose >}}{{< tdopen >}}
+{{< thclose >}}{{< thopen >}}
 TOPICS
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< thopen >}}
-**1**
-{{< thclose >}}{{< tdopen >}}
+{{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
+1
+{{< tdclose >}}{{< tdopen >}}
 Rationality and Rational Choice (PDF)
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< thopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 2
-{{< thclose >}}{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Games in Strategic Form and Nash Equilibrium (PDF)
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< thopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3
-{{< thclose >}}{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Mixed Strategy Nash Equilibrium (PDF)
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< thopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4
-{{< thclose >}}{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Extensive Form Games with Complete Information (PDF)
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< thopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
-{{< thclose >}}{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Repeated Games (PDF)
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< thopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 6
-{{< thclose >}}{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Static Games of Incomplete Information (PDF)
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< thopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 7
-{{< thclose >}}{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Dynamic Games of Incomplete Information (PDF)
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< thopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8
-{{< thclose >}}{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Social Choice (PDF)
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< thopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9
-{{< thclose >}}{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 
-Additional Topics 
+Additional Topics
 
 (PDF)
 
