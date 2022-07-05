@@ -16,11 +16,11 @@ uid: f331282f-80ec-48ba-9dc0-a8cb941846ba
 \[P\] = Persson, Torsten, and Guido Tabellini. [*Political Economics: Explaining Economic Policy*](https://mitpress.mit.edu/books/political-economics)*.* MIT Press, 2002. ISBN: ‎ 9780262661317. 
 
 {{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
-**LEC #**
+LEC #
 {{< thclose >}}{{< thopen >}}
-**TOPICS**
+TOPICS
 {{< thclose >}}{{< thopen >}}
-**READINGS**
+READINGS
 {{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 1
 {{< tdclose >}}{{< tdopen >}}
