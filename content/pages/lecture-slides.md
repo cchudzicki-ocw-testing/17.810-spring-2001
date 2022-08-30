@@ -5,54 +5,20 @@ draft: false
 title: Lecture Slides
 uid: 98dd502a-0a60-47d8-bbe9-0fbf3a0800ea
 ---
-{{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
-LEC #
-{{< thclose >}}{{< thopen >}}
-TOPICS
-{{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
-1
-{{< tdclose >}}{{< tdopen >}}
-Rationality and Rational Choice (PDF)
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-2
-{{< tdclose >}}{{< tdopen >}}
-Games in Strategic Form and Nash Equilibrium (PDF)
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-3
-{{< tdclose >}}{{< tdopen >}}
-Mixed Strategy Nash Equilibrium (PDF)
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-4
-{{< tdclose >}}{{< tdopen >}}
-Extensive Form Games with Complete Information (PDF)
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-5
-{{< tdclose >}}{{< tdopen >}}
-Repeated Games (PDF)
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-6
-{{< tdclose >}}{{< tdopen >}}
-Static Games of Incomplete Information (PDF)
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-7
-{{< tdclose >}}{{< tdopen >}}
-Dynamic Games of Incomplete Information (PDF)
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-8
-{{< tdclose >}}{{< tdopen >}}
-Social Choice (PDF)
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-9
-{{< tdclose >}}{{< tdopen >}}
+Lecture 1: Rationality and Rational Choice (PDF)
 
-Additional Topics (PDF)
+Lecture 2: Games in Strategic Form and Nash Equilibrium (PDF)
 
-*Bounded Rationality*
+Lecture 3: Mixed Strategy Nash Equilibrium (PDF)
 
-*Algorithmic Game Theory*
+Lecture 4: Extensive Form Games with Complete Information (PDF) 
 
-*Evolutionary Game Theory*
+Lecture 5: Repeated Games (PDF) 
 
-*Agent-Based Modeling*
+Lecture 6: Static Games of Incomplete Information (PDF)
 
-{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
+Lecture 7: Dynamic Games of Incomplete Information (PDF)
+
+Lecture 8: Social Choice (PDF)
+
+Lecture 9: Additional Topics (PDF)
