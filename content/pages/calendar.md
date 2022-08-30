@@ -5,86 +5,47 @@ draft: false
 title: Calendar
 uid: 32fe390f-a792-4e31-8512-7e6ffbaacc9c
 ---
-{{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
-LEC #
-{{< thclose >}}{{< thopen >}}
-TOPICS
-{{< thclose >}}{{< thopen >}}
-KEY DUE DATES
-{{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
-1
-{{< tdclose >}}{{< tdopen >}}
-Rationality and Rational Choice
-{{< tdclose >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-2
-{{< tdclose >}}{{< tdopen >}}
-Games in Strategic Form and Nash Equilibrium
-{{< tdclose >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-3
-{{< tdclose >}}{{< tdopen >}}
-Mixed Strategy Nash Equilibrium
-{{< tdclose >}}{{< tdopen >}}
-Problem set 1 due
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-4A
-{{< tdclose >}}{{< tdopen >}}
-Extensive Form Games with Complete Information: Dynamic Games of Complete and Perfect Information
-{{< tdclose >}}{{< tdopen >}}
-Problem set 2 due
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-4B
-{{< tdclose >}}{{< tdopen >}}
-Extensive Form Games with Complete Information: Dynamic Games of Complete and Imperfect Information
-{{< tdclose >}}{{< tdopen >}}
-Problem set 3 due
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-5A
-{{< tdclose >}}{{< tdopen >}}
-Repeated Games: Finitely Repeated Games
-{{< tdclose >}}{{< tdopen >}}
-Problem set 4 due
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-5B
-{{< tdclose >}}{{< tdopen >}}
-Repeated Games: Infinitely Repeated Games
-{{< tdclose >}}{{< tdopen >}}
-Problem set 5 due
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-6
-{{< tdclose >}}{{< tdopen >}}
-Static Games of Incomplete Information
-{{< tdclose >}}{{< tdopen >}}
-Problem set 6 due
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-7
-{{< tdclose >}}{{< tdopen >}}
-Dynamic Games of Incomplete Information
-{{< tdclose >}}{{< tdopen >}}
-Problem set 7 due
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-8
-{{< tdclose >}}{{< tdopen >}}
-Social Choice
-{{< tdclose >}}{{< tdopen >}}
-Final problem set distributed
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-9
-{{< tdclose >}}{{< tdopen >}}
+#### Lecture 1: Rationality and Rational Choice
 
-Additional Topics
+#### Lecture 2: Games in Strategic Form and Nash Equilibrium
 
-*Bounded Rationality*
+#### Lecture 3: Mixed Strategy Nash Equilibrium
 
-*Algorithmic Game Theory*
+*Problem set 1 due*
 
-*Evolutionary Game Theory*
+#### Lecture 4A: Extensive Form Games with Complete Information: Dynamic Games of Complete and Perfect Information
 
-*Agent-Based Modeling*
+*Problem set 2 due*
 
-{{< tdclose >}}{{< tdopen >}}
-Final problem set due
-{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
+#### Lecture 4B: Extensive Form Games with Complete Information: Dynamic Games of Complete and Imperfect Information
+
+*Problem set 3 due*
+
+#### Lecture 5A: Repeated Games: Finitely Repeated Games
+
+*Problem set 4 due*
+
+#### Lecture 5B: Repeated Games: Infinitely Repeated Games
+
+*Problem set 5 due* 
+
+#### Lecture 6: Static Games of Incomplete Information
+
+*Problem set 6 due*
+
+#### Lecture 7: Dynamic Games of Incomplete Information
+
+*Problem set 7 due*
+
+#### Lecture 8: Social Choice
+
+*Final problem set distributed* 
+
+#### Lecture 9: Additional Topics
+
+- *Bounded Rationality*
+- *Algorithmic Game Theory*
+- *Evolutionary Game Theory*
+- *Agent-Based Modeling*
+
+*Final problem set due*
