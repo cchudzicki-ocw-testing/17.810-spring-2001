@@ -24,23 +24,9 @@ This course provides an introduction to game theoretic analysis in political sci
 
 #### Course Requirements
 
-ACTIVITIES
-
-PERCENTAGES
-
-Problem sets (7)
-
-50%
-
-Participation
-
-*Your regular attendance and active participation in lectures and recitation sections.*
-
-10%
-
-Final problem set
-
-40%
+- Problem sets (7) (50% of the final course grade)
+- Regular attendance and active participation in lectures and recitation sections. (10%)
+- Final problem set (40%)
 
 For details on the problem sets, see the {{% resource_link "1cbb2272-94ba-4392-9a93-23aff55fc065" "Assignments" %}} section.
 
@@ -52,7 +38,7 @@ In particular, the following is a (partial) list of the acts we will consider ac
 
 - Obtaining or consulting course materials from previous years
 - Sharing course materials with people outside of the class, such as problem sets and solutions
-- Copying and pasting someone else’s answers to problem sets electronically, even if you collaborated                      
+- Copying and pasting someone else’s answers to problem sets electronically, even if you collaborated                       
     with the person in a legitimate way (as specified above)
 
 #### Recitation Sessions
@@ -63,8 +49,8 @@ We will hold weekly recitation sessions. These sessions will provide a review of
 
 **Required Book**
 
-There will be required readings for each section of the course. Students are expected to complete them                     
-before the relevant materials are covered in the lectures. The following textbook is required and will be                     
+There will be required readings for each section of the course. Students are expected to complete them                      
+before the relevant materials are covered in the lectures. The following textbook is required and will be                      
 used throughout the course.
 
 - Gibbons, Robert S. *Game Theory for Applied Economists*. Princeton University Press, 1992. ISBN: ‎9780691003955. \[Preview with [Google Books](https://www.google.com/books/edition/Game_Theory_for_Applied_Economists/8ygxf2WunAIC?hl=en&gbpv=1)\]
