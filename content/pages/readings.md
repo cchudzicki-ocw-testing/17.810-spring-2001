@@ -15,15 +15,7 @@ uid: f331282f-80ec-48ba-9dc0-a8cb941846ba
 
 \[P\] = Persson, Torsten, and Guido Tabellini. [*Political Economics: Explaining Economic Policy*](https://mitpress.mit.edu/books/political-economics)*.* MIT Press, 2002. ISBN: ‎ 9780262661317. 
 
-LEC #
-
-TOPICS
-
-READINGS
-
-1
-
-Rationality and Rational Choice
+#### Lecture 1: Rationality and Rational Choice
 
 *Required Readings:*
 
@@ -35,9 +27,7 @@ Cameron, Charles M. "Rational Choice and the Presidency." Chapter 3 in *Veto Bar
 
 \[MC\] Chapter 1: Introduction. 
 
-2
-
-Games in Strategic Form and Nash Equilibrium
+#### Lecture 2: Games in Strategic Form and Nash Equilibrium
 
 *Required Reading:*
 
@@ -53,9 +43,7 @@ Games in Strategic Form and Nash Equilibrium
 
 \[MC\] Chapter 5.6: Application: Interest Group Contributions 
 
-3
-
-Mixed Strategy Nash Equilibrium
+#### Lecture 3: Mixed Strategy Nash Equilibrium
 
 *Required Reading:*
 
@@ -67,9 +55,7 @@ Mixed Strategy Nash Equilibrium
 
 \[F\] Chapter 1: Games in Strategic Form and Nash Equilibrium. \[Preview with [Google Books](https://www.google.com/books/edition/Game_Theory/3KnuDwAAQBAJ?hl=en&gbpv=1)\] *(advanced)*
 
-4A
-
-Extensive Form Games with Complete Information: Dynamic Games of Complete and Perfect Information
+#### Lecture 4A: Extensive Form Games with Complete Information: Dynamic Games of Complete and Perfect Information
 
 *Required Readings:*
 
@@ -77,9 +63,7 @@ Extensive Form Games with Complete Information: Dynamic Games of Complete and Pe
 
 \[G\] Chapter 2.1.B: Stackelberg Model of Duopoly. 
 
-4B
-
-Extensive Form Games with Complete Information: Dynamic Games of Complete and Imperfect Information
+#### Lecture 4B: Extensive Form Games with Complete Information: Dynamic Games of Complete and Imperfect Information
 
 *Required Readings:*
 
@@ -93,17 +77,13 @@ Extensive Form Games with Complete Information: Dynamic Games of Complete and Im
 
 Grossman, Gene M, and Elhanan Helpman. "[Protection for Sale](https://www.jstor.org/stable/2118033?seq=1)."  *American Economic Review* 84, no. 4 (1994): 833–50.
 
-5A
-
-Repeated Games: Finitely Repeated Games
+#### Lecture 5A: Repeated Games: Finitely Repeated Games
 
 *Required Reading:*
 
 \[G\] Chapter 2.3.A: Two-Stage Repeated Games. 
 
-5B
-
-Repeated Games: Infinitely Repeated Games
+#### Lecture 5B: Repeated Games: Infinitely Repeated Games
 
 *Required Reading:*
 
@@ -115,9 +95,7 @@ Grossman, Gene M., and Elhanan Helpman. ["Trade Wars and Trade Talks." (PDF)](ht
 
 Baron, David P., and John A. Ferejohn. "[Bargaining in Legislatures](https://www.jstor.org/stable/1961664?seq=1)." *American Political Science Review* 83 (1989): 1181–1206.
 
-6
-
-Static Games of Incomplete Information
+#### Lecture 6: Static Games of Incomplete Information
 
 *Required Reading:*
 
@@ -127,9 +105,7 @@ Static Games of Incomplete Information
 
 Fearon, James D. "[Rationalist Explanations for War](https://www.jstor.org/stable/2706903?seq=1)." *International Organization* 49, no. 3 (1995): 379–414.
 
-7
-
-Dynamic Games of Incomplete Information
+#### Lecture 7: Dynamic Games of Incomplete Information
 
 *Required Readings:*
 
@@ -143,22 +119,15 @@ Dynamic Games of Incomplete Information
 
 Potters, Jan, and Frans van Winden. "[Lobbying and Asymmetric Information](https://www.jstor.org/stable/30025608?seq=1)." *Public Choice* 74, no. 3 (1992): 269–92.
 
-8
-
-Social Choice
+#### Lecture 8: Social Choice
 
 No readings assigned.
 
-9
+#### Lecture 9: Additional Topics
 
-Additional Topics
-
-*Bounded Rationality*
-
-*Algorithmic Game Theory*
-
-*Evolutionary Game Theory*
-
-*Agent-Based Modeling*
+- *Bounded Rationality*
+- *Algorithmic Game Theory*
+- *Evolutionary Game Theory*
+- *Agent-Based Modeling*
 
 No readings assigned.
