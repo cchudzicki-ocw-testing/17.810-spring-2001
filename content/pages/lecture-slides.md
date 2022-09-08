@@ -13,7 +13,7 @@ Lecture 3: Mixed Strategy Nash Equilibrium (PDF)
 
 Lecture 4: Extensive Form Games with Complete Information (PDF) 
 
-Lecture 5: Repeated Games (PDF - 1.5MB) 
+Lecture 5: Repeated Games (PDF) 
 
 Lecture 6: Static Games of Incomplete Information (PDF)
 
