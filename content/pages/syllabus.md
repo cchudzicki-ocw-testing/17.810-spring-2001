@@ -38,7 +38,7 @@ In particular, the following is a (partial) list of the acts we will consider ac
 
 - Obtaining or consulting course materials from previous years
 - Sharing course materials with people outside of the class, such as problem sets and solutions
-- Copying and pasting someone else’s answers to problem sets electronically, even if you collaborated                       
+- Copying and pasting someone else’s answers to problem sets electronically, even if you collaborated                        
     with the person in a legitimate way (as specified above)
 
 #### Recitation Sessions
@@ -49,8 +49,8 @@ We will hold weekly recitation sessions. These sessions will provide a review of
 
 **Required Book**
 
-There will be required readings for each section of the course. Students are expected to complete them                      
-before the relevant materials are covered in the lectures. The following textbook is required and will be                      
+There will be required readings for each section of the course. Students are expected to complete them                       
+before the relevant materials are covered in the lectures. The following textbook is required and will be                       
 used throughout the course.
 
 - Gibbons, Robert S. *Game Theory for Applied Economists*. Princeton University Press, 1992. ISBN: ‎9780691003955. \[Preview with [Google Books](https://www.google.com/books/edition/Game_Theory_for_Applied_Economists/8ygxf2WunAIC?hl=en&gbpv=1)\]
@@ -69,7 +69,7 @@ The following books are optional but may prove useful to students looking for ad
 
 *For political science applications:*
 
-- Persson, Torsten, and Guido Tabellini. [*Political Economics: Explaining Economic Policy*](https://mitpress.mit.edu/books/political-economics)*.* MIT Press, 2002. ISBN: ‎ 9780262661317. \[Preview with [Google Books](https://www.google.com/books/edition/Political_Economics/XC4MEAAAQBAJ?hl=en&gbpv=1)\]
+- Persson, Torsten, and Guido Tabellini. [*Political Economics: Explaining Economic Policy*](https://mitpress.mit.edu/9780262661317/political-economics/)*.* MIT Press, 2002. ISBN: ‎ 9780262661317. \[Preview with [Google Books](https://www.google.com/books/edition/Political_Economics/XC4MEAAAQBAJ?hl=en&gbpv=1)\]
 - McCarty, Nolan, and Adam Meirowitz. *Political Game Theory: An Introduction*. Cambridge University Press, 2007. ISBN: ‎9780521841078. \[Preview with [Google Books](https://www.google.com/books/edition/Political_Game_Theory/cNJlCdf-zKcC?hl=en&gbpv=1)\]
 
 *For math background:*
