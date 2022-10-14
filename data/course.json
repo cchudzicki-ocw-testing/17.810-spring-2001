@@ -39,7 +39,8 @@
   },
   "learning_resource_types": [
     "Lecture Notes",
-    "Problem Sets"
+    "Problem Sets",
+    "Readings"
   ],
   "site_uid": "39da42c1-c200-4d1c-bd04-8c3bbb0d496b"
 }
