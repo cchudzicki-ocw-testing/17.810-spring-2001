@@ -19,7 +19,7 @@ uid: f331282f-80ec-48ba-9dc0-a8cb941846ba
 
 *Required Readings:*
 
-Cameron, Charles M. "Rational Choice and the Presidency." Chapter 3 in *Veto Bargaining: Presidents and the Politics of Negative Power.* Cambridge University Press, 2000. ISBN: 9780521625500. \[Preview with [Google Books](https://www.google.com/books/edition/Veto_Bargaining/ZlCrBdHD4owC?hl=en&gbpv=1)\]
+Cameron, Charles M. "Rational Choice and the Presidency." Chapter 3 in *Veto Bargaining: Presidents and the Politics of Negative Power.* Cambridge University Press, 2000. ISBN: 9780521625500. 
 
 *Ignore the specific application to presidential vetoes; the method described (and defended) here is what this course prepares you to practice.*
 
@@ -47,7 +47,7 @@ Cameron, Charles M. "Rational Choice and the Presidency." Chapter 3 in *Veto Bar
 
 *Required Reading:*
 
-\[G\] Chapter 1.3.A: Mixed Strategies. \[Preview with [Google Books](https://www.google.com/books/edition/Game_Theory_for_Applied_Economists/8ygxf2WunAIC?hl=en&gbpv=1)\]
+\[G\] Chapter 1.3.A: Mixed Strategies. 
 
 *Optional Readings:*
 
@@ -93,7 +93,7 @@ Grossman, Gene M, and Elhanan Helpman. "[Protection for Sale](https://www.jstor.
 
 Grossman, Gene M., and Elhanan Helpman. ["Trade Wars and Trade Talks." (PDF)](https://dash.harvard.edu/bitstream/handle/1/3450062/Helpman_TradeWars.pdf) *Journal of Political Economy* 103, no. 4 (1995): 675–708.
 
-Baron, David P., and John A. Ferejohn. "[Bargaining in Legislatures](https://www.jstor.org/stable/1961664?seq=1)." *American Political Science Review* 83 (1989): 1181–1206.
+Baron, David P., and John A. Ferejohn. "[Bargaining in Legislatures](https://www.jstor.org/stable/1961664?seq=1)." *American Political Science Review* 83, no. 4 (1989): 1181–1206.
 
 #### Lecture 6: Static Games of Incomplete Information
 
