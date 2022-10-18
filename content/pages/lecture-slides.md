@@ -11,9 +11,9 @@ uid: 98dd502a-0a60-47d8-bbe9-0fbf3a0800ea
 
 {{% resource_link "6e2243ba-e97f-42e3-91d7-a87358251098" "Lecture 3: Mixed Strategy Nash Equilibrium (PDF)" %}}
 
-{{% resource_link "10f2771d-44f2-4f74-bec0-54321c942d66" "Lecture 4: Extensive Form Games with Complete Information (PDF)" %}} 
+{{% resource_link "10f2771d-44f2-4f74-bec0-54321c942d66" "Lecture 4: Extensive Form Games with Complete Information (PDF)" %}}
 
-{{% resource_link "7d65f82b-b789-469f-b1e1-6b65f3dee49f" "Lecture 5: Repeated Games (PDF)" %}} 
+{{% resource_link "7d65f82b-b789-469f-b1e1-6b65f3dee49f" "Lecture 5: Repeated Games (PDF)" %}}
 
 {{% resource_link "2831c124-3787-498f-9927-631e24912d81" "Lecture 6: Static Games of Incomplete Information (PDF)" %}}
 
