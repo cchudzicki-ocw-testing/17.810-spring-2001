@@ -5,7 +5,7 @@ draft: false
 title: Readings
 uid: f331282f-80ec-48ba-9dc0-a8cb941846ba
 ---
-\[F\] = Fudenberg, Drew, and Jean Tirole. [*Game Theory*](https://mitpress.mit.edu/books/game-theory).  MIT Press, 1991. ISBN: ‎9780262061414. 
+\[F\] = Fudenberg, Drew, and Jean Tirole. [*Game Theory*](https://mitpress.mit.edu/books/game-theory). MIT Press, 1991. ISBN: ‎9780262061414. 
 
 \[G\] = Gibbons, Robert S. *Game Theory for Applied Economists*. Princeton University Press, 1992. ISBN: ‎9780691003955. 
 
@@ -13,7 +13,7 @@ uid: f331282f-80ec-48ba-9dc0-a8cb941846ba
 
 \[MC\] = McCarty, Nolan, and Adam Meirowitz. *Political Game Theory: An Introduction*. Cambridge University Press, 2007. ISBN: ‎9780521841078. 
 
-\[P\] = Persson, Torsten, and Guido Tabellini. [*Political Economics: Explaining Economic Policy*](https://mitpress.mit.edu/9780262661317/political-economics/)*.* MIT Press, 2002. ISBN: ‎ 9780262661317. 
+\[P\] = Persson, Torsten, and Guido Tabellini. [*Political Economics: Explaining Economic Policy*](https://mitpress.mit.edu/9780262661317/political-economics/)*.* MIT Press, 2002. ISBN: ‎9780262661317. 
 
 **Lecture 1: Rationality and Rational Choice**
 
@@ -37,11 +37,11 @@ Cameron, Charles M. "Rational Choice and the Presidency." Chapter 3 in *Veto Bar
 
 \[G\] Chapter 1.2: Applications. \[Preview with [Google Books](https://www.google.com/books/edition/Game_Theory_for_Applied_Economists/8ygxf2WunAIC?hl=en&gbpv=1)\]
 
-\[MC\] Chapter 5.1: The Normal Form 
+\[MC\] Chapter 5.1: The Normal Form. 
 
-\[MC\] Chapter 5.2: Solutions to Normal Form Games 
+\[MC\] Chapter 5.2: Solutions to Normal Form Games.
 
-\[MC\] Chapter 5.6: Application: Interest Group Contributions 
+\[MC\] Chapter 5.6: Application: Interest Group Contributions. 
 
 **Lecture 3: Mixed Strategy Nash Equilibrium**
 
@@ -75,7 +75,7 @@ Cameron, Charles M. "Rational Choice and the Presidency." Chapter 3 in *Veto Bar
 
 *Optional Reading:*
 
-Grossman, Gene M, and Elhanan Helpman. "[Protection for Sale](https://www.jstor.org/stable/2118033?seq=1)."  *American Economic Review* 84, no. 4 (1994): 833–50.
+Grossman, Gene M, and Elhanan Helpman. "[Protection for Sale](https://www.jstor.org/stable/2118033?seq=1)." *American Economic Review* 84, no. 4 (1994): 833–50.
 
 **Lecture 5A: Repeated Games: Finitely Repeated Games**
 
@@ -111,7 +111,7 @@ Fearon, James D. "[Rationalist Explanations for War](https://www.jstor.org/stabl
 
 \[G\] Chapter 4.1: Introduction to Perfect Bayesian Equilibrium.
 
-\[G\] Chapter 4.2: Signaling Games
+\[G\] Chapter 4.2: Signaling Games.
 
 \[G\] Chapter 4.3A: Cheap-Talk Games.
 
