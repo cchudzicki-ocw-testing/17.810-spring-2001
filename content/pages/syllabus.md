@@ -57,14 +57,14 @@ The following books are optional but may prove useful to students looking for ad
 *Other good textbooks:*
 
 - Osborne, Martin J. *An Introduction to Game Theory*. Oxford University Press, 2003. ISBN: ‎9780195128956.
-- Fudenberg, Drew, and Jean Tirole. [*Game Theory*](https://mitpress.mit.edu/books/game-theory).  MIT Press, 1991. ISBN: ‎9780262061414. \[Preview with [Google Books](https://www.google.com/books/edition/Game_Theory/3KnuDwAAQBAJ?hl=en&gbpv=1)\] \*
+- Fudenberg, Drew, and Jean Tirole. [*Game Theory*](https://mitpress.mit.edu/books/game-theory). MIT Press, 1991. ISBN: ‎9780262061414. \[Preview with [Google Books](https://www.google.com/books/edition/Game_Theory/3KnuDwAAQBAJ?hl=en&gbpv=1)\] \*
 - Mas-Colell, Andreu, Michael D. Whinston, and Jerry R. Green. *Microeconomic Theory*. Oxford University Press, 1995. ISBN: ‎9780195073409. \*
 
 \* These are recommended if you want more rigorous treatments of the materials covered in the course.
 
 *For political science applications:*
 
-- Persson, Torsten, and Guido Tabellini. [*Political Economics: Explaining Economic Policy*](https://mitpress.mit.edu/9780262661317/political-economics/)*.* MIT Press, 2002. ISBN: ‎ 9780262661317. \[Preview with [Google Books](https://www.google.com/books/edition/Political_Economics/XC4MEAAAQBAJ?hl=en&gbpv=1)\]
+- Persson, Torsten, and Guido Tabellini. [*Political Economics: Explaining Economic Policy*](https://mitpress.mit.edu/9780262661317/political-economics/)*.* MIT Press, 2002. ISBN: ‎9780262661317. \[Preview with [Google Books](https://www.google.com/books/edition/Political_Economics/XC4MEAAAQBAJ?hl=en&gbpv=1)\]
 - McCarty, Nolan, and Adam Meirowitz. *Political Game Theory: An Introduction*. Cambridge University Press, 2007. ISBN: ‎9780521841078. \[Preview with [Google Books](https://www.google.com/books/edition/Political_Game_Theory/cNJlCdf-zKcC?hl=en&gbpv=1)\]
 
 *For math background:*
