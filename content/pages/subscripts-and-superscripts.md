@@ -5,7 +5,9 @@ draft: false
 title: Subscripts and Superscripts
 uid: d8b66928-ee87-4b59-ac37-d78f781e73e6
 ---
-**NOTE:** Not all of these are use-cases that we want to encourage. The goal here is to document what currently works and to alert ourselves if one of these stops breaking. For example, styling bold inside a subscript is absolutely not something we would encourage..
+**NOTE:** Not all of these are use-cases that we want to encourage. The goal here is to document what currently works and to alert ourselves if one of these stops breaking. For example, styling bold inside a subscript is absolutely not something <sup>well </sup> {{% resource_link "2831c124-3787-498f-9927-631e24912d81" "<sup>MIT17_810S21_lec6.pdf</sup>" %}} 
+
+we would encourage..
 
 Example, Normal: Lorem ipsum dolor sit<sub>abc 123</sub> amet consectetur. Lorem ipsum dolor sit<sup>abc 123</sup> amet consectetur.
 
