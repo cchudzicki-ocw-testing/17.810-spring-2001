@@ -5,7 +5,7 @@ draft: false
 title: Assignments
 uid: 1cbb2272-94ba-4392-9a93-23aff55fc065
 ---
-Einstein says E=mc2. Cool! And Water is H2O. And {{% resource_link "2831c124-3787-498f-9927-631e24912d81" "Here is a pddf.pdf" %}}.
+Einstein says E=mc<sup>2</sup>. Cool! And Water is H2O. And {{% resource_link "2831c124-3787-498f-9927-631e24912d81" "Here is a pddf.pdf" %}}.
 
 Rabbits abc
 
