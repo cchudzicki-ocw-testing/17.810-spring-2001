@@ -5,7 +5,9 @@ draft: false
 title: Subscripts and Superscripts
 uid: d8b66928-ee87-4b59-ac37-d78f781e73e6
 ---
-**NOTE:** Not all of these are use-cases that we want to encourage. The goal here is to document what currently works and to alert ourselves if one of these stops breaking. For example, styling bold inside a subscript is absolutely not something <sup>well </sup> {{% resource_link "2831c124-3787-498f-9927-631e24912d81" "<sup>MIT17_810S21_lec6.pdf</sup>" %}} 
+<sup>cats</sup>fooo
+
+**NOTE:** Not all of these are use-cases that we want to encourage. The goal here is to document what currently works and to alert ourselves if one of these stops breaking. For example, styling bold inside a subscript is absolutely not something <sup>well</sup> {{% resource_link "2831c124-3787-498f-9927-631e24912d81" "<sup>MIT17\_810S21\_lec6.pdf</sup>" %}}
 
 we would encourage..
 
@@ -15,9 +17,9 @@ Example, Bold: **Lorem ipsum dolor sit<sub>abc 123</sub> amet consectetur. Lorem
 
 Example, Italic: *Lorem ipsum dolor sit<sub>abc 123</sub> amet consectetur. Lorem ipsum dolor sit<sup>abc 123</sup> amet consectetur.*
 
-Example, Interior Bold: Lorem ipsum dolor sit<sub>abc </sub> **<sub>123</sub>** amet consectetur. Lorem ipsum dolor sit<sup>abc </sup> **<sup>123</sup>** amet consectetur.
+Example, Interior Bold: Lorem ipsum dolor sit<sub>abc</sub> **<sub>123</sub>** amet consectetur. Lorem ipsum dolor sit<sup>abc</sup> **<sup>123</sup>** amet consectetur.
 
-Example, Interior italic: Lorem ipsum dolor sit<sub>abc </sub> *<sub>123</sub>* amet consectetur. Lorem ipsum dolor sit<sup>abc </sup> *<sup>123</sup>* amet consectetur.
+Example, Interior italic: Lorem ipsum dolor sit<sub>abc</sub> *<sub>123</sub>* amet consectetur. Lorem ipsum dolor sit<sup>abc</sup> *<sup>123</sup>* amet consectetur.
 
 Example, Links in scripts: Lorem ipsum dolor sit[<sub>abc 123</sub>](https://mit.edu) amet consectetur. Lorem ipsum dolor sit[<sup>abc 123</sup>](https://mit.edu) amet consectetur.
 
