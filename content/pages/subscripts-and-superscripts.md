@@ -5,7 +5,7 @@ draft: false
 title: Subscripts and Superscripts
 uid: d8b66928-ee87-4b59-ac37-d78f781e73e6
 ---
-​<sup>cats</sup>fooo **cats** and **dogs**
+​<sup>cats</sup>fooo **cats** and **dogs!**
 
 **NOTE:** Not all of these are use-cases that we want to encourage. The goal here is to document what currently works and to alert ourselves if one of these stops breaking. For example, styling bold inside a subscript is absolutely not something <sup>well</sup> {{% resource_link "2831c124-3787-498f-9927-631e24912d81" "<sup>MIT17\_810S21\_lec6.pdf</sup>" %}}
 
