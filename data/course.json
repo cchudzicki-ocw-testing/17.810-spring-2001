@@ -1,0 +1,47 @@
+{
+  "term": "Spring",
+  "year": "2021",
+  "level": [
+    "Undergraduate",
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Social Science",
+      "Game Theory"
+    ],
+    [
+      "Social Science",
+      "Political Science"
+    ]
+  ],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [
+      "726ed424-0621-a5ff-b793-c8b16466b44c"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "f19eb704-c40a-4850-9f4f-4659c21f68d1",
+    "website": "game-theory-and-political-theory"
+  },
+  "course_title": "Game Theory ",
+  "course_description": "This course introduces students to the rudiments of game theory as practiced in political science. It teaches students the basic elements of formal modeling and strategies for solving simple games. Readings draw from introductory texts on game theoretic modeling and applied articles in American politics, international relations, and comparative politics.",
+  "department_numbers": [
+    "17"
+  ],
+  "extra_course_numbers": "17.811",
+  "primary_course_number": "17.810",
+  "course_image_thumbnail": {
+    "content": "21a7ef4d-f280-43ec-b089-327580f7a8b0",
+    "website": "game-theory-and-political-theory"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Problem Sets",
+    "Readings"
+  ],
+  "site_uid": "39da42c1-c200-4d1c-bd04-8c3bbb0d496b",
+  "site_short_id": "17.810-spring-2001"
+}
