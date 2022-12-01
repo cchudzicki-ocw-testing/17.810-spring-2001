@@ -7,6 +7,10 @@ uid: d8b66928-ee87-4b59-ac37-d78f781e73e6
 ---
 ​<sup>123</sup>Hello world
 
+<sub>456</sub>Goodbye, world.  
+What about  
+<sup>xyz</sup>???
+
 **NOTE:** Not all of these are use-cases that we want to encourage. The goal here is to document what currently works and to alert ourselves if one of these stops breaking. For example, styling bold inside a subscript is not something we would encourage.
 
 Example, Normal: Lorem ipsum dolor sit<sub>abc 123</sub> amet consectetur. Lorem ipsum dolor sit<sup>abc 123</sup> amet consectetur.
