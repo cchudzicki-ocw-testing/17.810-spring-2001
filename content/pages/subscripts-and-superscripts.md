@@ -5,12 +5,14 @@ draft: false
 title: Subscripts and Superscripts
 uid: d8b66928-ee87-4b59-ac37-d78f781e73e6
 ---
+​<sub>123</sub>: Well {{% resource_link "d89f16d6-176c-40fb-a483-d5839703ebbb" "Chemicals like H<sub>2</sub>O and NH<sub>4</sub><sup>+</sup>.pdf" %}}
+
 cats
 
 ​<sup>123</sup>Hello world
 
-​<sub>456</sub>Goodbye, world.      
-What about      
+​<sub>456</sub>Goodbye, world.       
+What about       
 ​<sup>xyz</sup>???
 
 **NOTE:** Not all of these are use-cases that we want to encourage. The goal here is to document what currently works and to alert ourselves if one of these stops breaking. For example, styling bold inside a subscript is not something we would encourage.
