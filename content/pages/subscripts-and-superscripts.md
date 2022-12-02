@@ -9,8 +9,8 @@ cats
 
 ​<sup>123</sup>Hello world
 
-​<sub>456</sub>Goodbye, world.     
-What about     
+​<sub>456</sub>Goodbye, world.      
+What about      
 ​<sup>xyz</sup>???
 
 **NOTE:** Not all of these are use-cases that we want to encourage. The goal here is to document what currently works and to alert ourselves if one of these stops breaking. For example, styling bold inside a subscript is not something we would encourage.
@@ -25,7 +25,7 @@ Example, Interior Bold: Lorem ipsum dolor sit<sub>abc</sub> **<sub>123</sub>** a
 
 Example, Interior italic: Lorem ipsum dolor sit<sub>abc</sub> *<sub>123</sub>* amet consectetur. Lorem ipsum dolor sit<sup>abc</sup> *<sup>123</sup>* amet consectetur.
 
-Example, Scripts in Links: Lorem ipsum dolor [sit<sub>abc 123</sub> amet](https://mit.edu) consectetur. Lorem ipsum dolor [sit<sup>abc 123</sup> amet](https://mit.edu) amet consectetur.
+Example, Scripts in Links: Lorem ipsum dolor [sit<sub>abc 123</sub> amet](https://mit.edu) consectetur. Lorem ipsum dolor [sit<sup>abc 123</sup> amet](https://mit.edu) amet consectetur. {{% resource_link "d89f16d6-176c-40fb-a483-d5839703ebbb" "Hnh<sub>4</sub><sup>+</sup>.pdf" %}}
 
 Example, Scripts in Resource Links: Lorem ipsum dolor {{% resource_link "d8b66928-ee87-4b59-ac37-d78f781e73e6" "sit<sub>abc 123</sub> amet" %}} consectetur. Lorem ipsum dolor {{% resource_link "d8b66928-ee87-4b59-ac37-d78f781e73e6" "sit<sup>abc 123</sup> amet" %}} consectetur.
 
