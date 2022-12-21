@@ -5,6 +5,8 @@ draft: false
 title: Subscripts and Superscripts
 uid: d8b66928-ee87-4b59-ac37-d78f781e73e6
 ---
+Hello world e<sup>x</sup><sub><sup>1</sup></sub><sup>+x</sup><sub><sup>2</sup></sub> fooo<sup>superscript</sup><sub><sup>simultaneous sup + sub</sup></sub>
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi
 
 Lorem ipsum dolor sit amet, Hello<sup>123</sup> world<sub>xyz</sub> A<sup>x</sup><sub><sup>y</sup></sub> cool! adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi cats {{% resource_link "90560c2e-fc27-4fa7-b020-9189c790a2aa" "Syllabus" %}}
