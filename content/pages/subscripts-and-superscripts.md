@@ -5,7 +5,7 @@ draft: false
 title: Subscripts and Superscripts
 uid: d8b66928-ee87-4b59-ac37-d78f781e73e6
 ---
-Hello world e<sup>x</sup><sub><sup>1</sup></sub><sup>+x</sup><sub><sup>2</sup></sub> fooo<sup>superscript</sup><sub><sup>simultaneous sup + sub</sup></sub>
+Hello world e<sup>x</sup><sub><sup>1</sup></sub><sup>+x</sup><sub><sup>2</sup></sub> fooo<sup>superscript</sup><sub><sup>simultaneous sup + sub</sup></sub> fooo<sub>subscript<sup>simultaneous sub + sup</sup></sub>
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi
 
