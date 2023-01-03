@@ -5,48 +5,12 @@ draft: false
 title: Subscripts and Superscripts
 uid: d8b66928-ee87-4b59-ac37-d78f781e73e6
 ---
-cats
+Hello world e<sup>x</sup><sub><sup>1</sup></sub><sup>+x</sup><sub><sup>2</sup></sub> fooo<sup>superscript</sup><sub><sup>simultaneous sup + sub</sup></sub> fooo<sub>subscript<sup>simultaneous sub + sup</sup></sub>
 
-​<sup>123</sup>Hello world
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi
 
-​<sub>456</sub>Goodbye, world.     
-What about     
-​<sup>xyz</sup>???
+Lorem ipsum dolor sit amet, Hello<sup>123</sup> world<sub>xyz</sub> A<sup>x</sup><sub><sup>y</sup></sub> cool! adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi cats {{% resource_link "90560c2e-fc27-4fa7-b020-9189c790a2aa" "Syllabus" %}}
 
-**NOTE:** Not all of these are use-cases that we want to encourage. The goal here is to document what currently works and to alert ourselves if one of these stops breaking. For example, styling bold inside a subscript is not something we would encourage.
+Lorem ipsum dolor sit am**et, Hello<sup>123</sup> world<sub>xyz</sub> A<sup>x</sup><sub><sup>y</sup></sub> cool! a**dipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi Cool! [cool](https://mit.edu)
 
-Example, Normal: Lorem ipsum dolor sit<sub>abc 123</sub> amet consectetur. Lorem ipsum dolor sit<sup>abc 123</sup> amet consectetur.
-
-Example, Bold: **Lorem ipsum dolor sit<sub>abc 123</sub> amet consectetur. Lorem ipsum dolor sit<sup>abc 123</sup> amet consectetur.**
-
-Example, Italic: *Lorem ipsum dolor sit<sub>abc 123</sub> amet consectetur. Lorem ipsum dolor sit<sup>abc 123</sup> amet consectetur.*
-
-Example, Interior Bold: Lorem ipsum dolor sit<sub>abc</sub> **<sub>123</sub>** amet consectetur. Lorem ipsum dolor sit<sup>abc</sup> **<sup>123</sup>** amet consectetur.
-
-Example, Interior italic: Lorem ipsum dolor sit<sub>abc</sub> *<sub>123</sub>* amet consectetur. Lorem ipsum dolor sit<sup>abc</sup> *<sup>123</sup>* amet consectetur.
-
-Example, Scripts in Links: Lorem ipsum dolor [sit<sub>abc 123</sub> amet](https://mit.edu) consectetur. Lorem ipsum dolor [sit<sup>abc 123</sup> amet](https://mit.edu) amet consectetur.
-
-Example, Scripts in Resource Links: Lorem ipsum dolor {{% resource_link "d8b66928-ee87-4b59-ac37-d78f781e73e6" "sit<sub>abc 123</sub> amet" %}} consectetur. Lorem ipsum dolor {{% resource_link "d8b66928-ee87-4b59-ac37-d78f781e73e6" "sit<sup>abc 123</sup> amet" %}} consectetur.
-
-### Usage in tables
-
-{{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
-Header One
-{{< thclose >}}{{< thopen >}}
-Header Two
-{{< thclose >}}{{< thopen >}}
-Header Three
-{{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
-lorem<sub>abc 123</sub> ipsum
-{{< tdclose >}}{{< tdopen >}}
-lorem[<sup>†</sup>](https://mit.edu) ipsum
-{{< tdclose >}}{{< tdopen >}}
-lorem{{% resource_link "d8b66928-ee87-4b59-ac37-d78f781e73e6" "<sup>‡</sup>" %}} ipsum
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-a
-{{< tdclose >}}{{< tdopen >}}
-b
-{{< tdclose >}}{{< tdopen >}}
-c
-{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
+​<sup>\[1\]</sup>: Lorem ipsum dolor sit amet, Hello<sup>1</sup>*<sup>abcd</sup>*<sup>3</sup> world<sub>xyz</sub> A<sup>x</sup><sub><sup>y</sup></sub> cool! adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi {{% resource_link "2831c124-3787-498f-9927-631e24912d81" "Chemicals Like H<sub>2</sub>O and<sup>234</sup> and NH<sub>4</sub><sup>+</sup>.pdf" %}}
